@@ -10,7 +10,7 @@ import { getDatabase } from "firebase/database";  // For Realtime Database (if y
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
  const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+   apiKey: "YOUR_API_KEY",
    authDomain: "YOUR_AUTH_DOMAIN",
    projectId: "YOUR_PROJECT_ID",
    storageBucket: "YOUR_STORAGE_BUCKET",
